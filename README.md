@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+你好，我是福州大学至诚学院 2018级计算机工程系 蔡钰玲 学号是211806152，
+我对计算机相关的技术感兴趣。
 <!--
 **ErikaSakii/ErikaSakii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
